@@ -7,3 +7,6 @@ and whole code base is re written. The code in this repo is
 UI and functionalities.
 
 All API keys are cleaned.
+
+
+Link to live project : https://clicktovisit.herokuapp.com/home/
